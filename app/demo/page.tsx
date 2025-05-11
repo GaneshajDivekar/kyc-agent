@@ -38,21 +38,7 @@ export default function DemoPage() {
   const [faceImage, setFaceImage] = useState<string | null>(null)
 
   // Aadhaar data from the provided card
-  const aadhaarData = {
-    name: "Ganesh Jalindar Divekar",
-    nameLocal: "गणेश जालिंदर दिवेकर",
-    aadhaarNumber: "5296 6023 5315",
-    vid: "9134 3377 8116 6450",
-    dob: "31/08/1992",
-    gender: "MALE",
-    address:
-      "house no 2, varvand kadethan road, near gopinath highschool, Warwand, PO: Varvand, DIST: Pune, Maharashtra - 412215",
-    addressLocal: "हाउस नं 2, वरवंड कडेठाण रोड, गोपीनाथ हाइस्कूल जवळ, वरवंड, वरवंड, पुणे, महाराष्ट्र - 412215",
-    mobile: "8459684546",
-    enrollmentNo: "2821/35134/01650",
-    issuedDate: "25/02/2013",
-    detailsAsOn: "04/09/2024",
-  }
+
 
   const handleNext = () => {
     setLoading(true)
