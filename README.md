@@ -75,3 +75,16 @@ A blazing fast, secure, and intelligent KYC automation platform built with cutti
 ```bash
 git clone git@github.com:GaneshajDivekar/kyc-agent.git
 cd ai-digital-kyc-agent
+
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+📜 License
+MIT License
+
+🙌 Credits
+Built with ❤️ by a developer who believes KYC shouldn't feel like CID.
+Powered by Open Source: FastAPI, LangChain, Mistral, Tesseract, React, Flutter, PostgreSQL.
+
+
