@@ -73,5 +73,5 @@ A blazing fast, secure, and intelligent KYC automation platform built with cutti
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/ai-digital-kyc-agent.git
+git clone git@github.com:GaneshajDivekar/kyc-agent.git
 cd ai-digital-kyc-agent
